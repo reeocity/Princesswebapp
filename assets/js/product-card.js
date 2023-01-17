@@ -15,9 +15,10 @@ const poolProducts = [
     },
     {
         name: 'CHI VITA 100 PERCENT',
-        image: 'assets/images/lounge/Chivita-100% 2.jpg',
+        image: 'assets/images/lounge/Chivita-100%.jpg',
         price: '1,200'
     },
+    
     {
         name: 'CHI VITA ACTIVE',
         image: 'assets/images/lounge/Chi-Vita-Active 2.jpg',
@@ -55,7 +56,7 @@ const poolProducts = [
     },
     {
         name: 'PLASTIC BETA MALT',
-        image: 'assets/images/lounge/maltina 3.jpg',
+        image: 'assets/images/lounge/beta-malt.png',
         price: '400'
     },
     {
@@ -63,15 +64,16 @@ const poolProducts = [
         image: 'assets/images/lounge/7up.jpg',
         price: '200'
     },
-    {
+   /**{
         name: 'CAN MIRINDA',
         image: 'assets/images/lounge/Mirinda.jpg',
         price: '250'
     },
+**/
     {
         name: 'COKE 35CL',
-        image: 'assets/images/lounge/Pet-Coke 2.jpg',
-        price: '150'
+        image: 'assets/images/lounge/coooke.jpg',
+        price: '300'
     },
     {
         name: 'FRESH YO BIG',
@@ -83,25 +85,27 @@ const poolProducts = [
         image: 'assets/images/lounge/Teem.jpg',
         price: '250'
     },
-    {
+    /*{
         name: 'MOUNTAIN DEW',
         image: 'assets/images/lounge/Moutain-dew.jpg',
         price: '250'
     },
+    */
     {
         name: 'CAN CLIMAX',
         image: 'assets/images/lounge/Climax-can.jpg',
         price: '600'
     }, 
-    {
+    /*  {
         name: '50CL FANTA',
         image: 'assets/images/lounge/Fanta 2.jpg',
         price: '200'
     }, 
+    */
     {
         name: 'PET LIMCA',
         image: 'assets/images/lounge/Limca.jpg',
-        price: '250'
+        price: '200'
     }, 
     {
         name: 'CLIMAX PET',
@@ -111,23 +115,24 @@ const poolProducts = [
     {
         name: 'PET MIRINDA',
         image: 'assets/images/lounge/Mirinda-Plastic.jpg',
-        price: '250'
+        price: '200'
     },
     {
         name: 'PET PEPSI',
-        image: 'assets/images/grillkitchen/Icon.jpg',
-        price: '250'
+        image: 'assets/images/lounge/pepsi.jpg',
+        price: '200'
     },
     {
         name: 'PET FANTA',
         image: 'assets/images/lounge/Fanta 2.jpg',
-        price: '250'
+        price: '400'
     },
-    {
+    /*{
         name: 'MALTINA CAN',
         image: 'assets/images/lounge/Maltina-Can.jpg',
         price: '300'
     },
+    */
     {
         name: 'EVA WATER',
         image: 'assets/images/grillkitchen/Icon.jpg',
@@ -141,43 +146,45 @@ const poolProducts = [
     {
         name: 'SHABRAM TABLE WATER',
         image: 'assets/images/grillkitchen/Icon.jpg',
-        price: '200'
+        price: '300'
     },
-    {
+   /* {
         name: 'ZERO ORIJIN CAN',
         image: 'assets/images/lounge/Orijin-Zero 3.jpg',
         price: '300'
     },
+    */
     {
         name: 'MALTINA',
         image: 'assets//images/lounge/maltina 3.jpg',
-        price: '400'
+        price: '500'
     },
     {
         name: 'MALTA GUINNESS',
         image: 'assets/images/lounge/Malta-guiness 2.jpg',
-        price: '400'
+        price: '500'
     },
     {
         name: 'FAYROUZ',
         image: 'assets/images/lounge/Fayrouz 2.jpg',
-        price: '300'
+        price: '400'
     },
     {
         name: 'PET COKE 50CL',
         image: 'assets/images/lounge/Pet-Coke 2.jpg',
-        price: '250'
+        price: '400'
     },
     {
         name: 'PET SPRITE',
         image: 'assets/images/lounge/sprite.jpg',
-        price: '250'
+        price: '200'
     },
-    {
+   /* {
         name: 'VIJU BAKED YOGHURT',
         image: 'assets/images/lounge/Viju-baked.jpg',
         price: '500'
     },
+    */
     {
         name: 'HOLLANDIA YOGHURT',
         image: 'assets/images/lounge/Hollandia-Yogurt.jpg',
@@ -185,14 +192,15 @@ const poolProducts = [
     },
     {
         name: 'VISMARTIC',
-        image: 'assets/images/grillkitchen/Icon.jpg',
+        image: 'assets/images/lounge/vsmartic.png',
         price: '1200'
     },
-    {
+    /*{
         name: 'VIJU YOGHURT',
         image: 'assets/images/lounge/Viju-Yoghurt.jpg',
         price: '500'
     },
+    */
     {
         name: 'MONSTER ENERGY DRINKS',
         image: 'assets/images/lounge/Monster.jpg',
