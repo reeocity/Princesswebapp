@@ -11,7 +11,7 @@ const poolProducts = [
     {
         name: 'New CRANBERRY',
         image: 'assets/images/lounge/Cranberry 2.jpg',
-        price: '3,500 Available'
+        price: '3,500'
     },
     {
         name: 'CHI VITA 100 PERCENT',
@@ -78,7 +78,7 @@ const poolProducts = [
     {
         name: 'FRESH YO BIG',
         image: 'assets/images/lounge/Fresh-Yo.jpg',
-        price: '1500'
+        price: '1,500'
     },
     {
         name: 'TEEM BITTER LEMON',
@@ -188,12 +188,12 @@ const poolProducts = [
     {
         name: 'HOLLANDIA YOGHURT',
         image: 'assets/images/lounge/Hollandia-Yogurt.jpg',
-        price: '2000'
+        price: '2,000'
     },
     {
         name: 'VISMARTIC',
         image: 'assets/images/lounge/vsmartic.png',
-        price: '1500'
+        price: '1,500'
     },
     /*{
         name: 'VIJU YOGHURT',
@@ -204,12 +204,12 @@ const poolProducts = [
     {
         name: 'MONSTER ENERGY DRINKS',
         image: 'assets/images/lounge/Monster.jpg',
-        price: '1500'
+        price: '1,500'
     },
     {
         name: 'POWER HORSE 50CL',
         image: 'assets/images/lounge/Power-Horse.jpg',
-        price: '1500'
+        price: '1,500'
     },
     {
         name: 'AMBER ENERGY DRINK',
@@ -219,7 +219,7 @@ const poolProducts = [
     {
         name: 'POWER HORSE 350ML',
         image: 'assets/images/lounge/Power-Horse.jpg',
-        price: '1200'
+        price: '1,200'
     },
 ];
 
