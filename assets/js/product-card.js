@@ -11,38 +11,38 @@ const poolProducts = [
     {
         name: 'New CRANBERRY',
         image: 'assets/images/lounge/Cranberry 2.jpg',
-        price: '3,000 Available'
+        price: '3,500'
     },
     {
         name: 'CHI VITA 100 PERCENT',
         image: 'assets/images/lounge/Chivita-100%.jpg',
-        price: '1,200'
+        price: '1,500'
     },
     
     {
         name: 'CHI VITA ACTIVE',
         image: 'assets/images/lounge/Chi-Vita-Active 2.jpg',
-        price: '1,200'
+        price: '1,500'
     },
     {
         name: 'CHI EXOTIC',
         image: 'assets/images/lounge/chi-exotic 2.jpg',
-        price: '1,200'
+        price: '1,500'
     },
     {
         name: 'CHI EXOTIC 500ML',
         image: 'assets/images/lounge/chi-exotic 2.jpg',
-        price: '500'
+        price: '750'
     },
     {
         name: '5 ALIVE PULPY',
         image: 'assets/images/lounge/Pulpy-Orange-big.jpg',
-        price: '800'
+        price: '1,500'
     },
     {
         name: '5 ALIVE BIG',
         image: 'assets/images/lounge/5alive.jpg',
-        price: '800'
+        price: '1,500'
     },
     {
         name: 'COCONUT WATER',
@@ -52,14 +52,14 @@ const poolProducts = [
     {
         name: 'LEAH WATER',
         image: 'assets/images/grillkitchen/Icon.jpg',
-        price: '200'
+        price: '300'
     },
     {
         name: 'PLASTIC BETA MALT',
         image: 'assets/images/lounge/beta-malt.png',
-        price: '400'
+        price: '500'
     },
-    {
+  /**  {
         name: 'PET SEVEN UP',
         image: 'assets/images/lounge/7up.jpg',
         price: '200'
@@ -73,12 +73,12 @@ const poolProducts = [
     {
         name: 'COKE 35CL',
         image: 'assets/images/lounge/coooke.jpg',
-        price: '300'
+        price: '200'
     },
     {
         name: 'FRESH YO BIG',
         image: 'assets/images/lounge/Fresh-Yo.jpg',
-        price: '1200'
+        price: '1500'
     },
     {
         name: 'TEEM BITTER LEMON',
@@ -115,12 +115,12 @@ const poolProducts = [
     {
         name: 'PET MIRINDA',
         image: 'assets/images/lounge/Mirinda-Plastic.jpg',
-        price: '200'
+        price: '300'
     },
     {
         name: 'PET PEPSI',
         image: 'assets/images/lounge/pepsi.jpg',
-        price: '200'
+        price: '400'
     },
     {
         name: 'PET FANTA',
@@ -136,12 +136,12 @@ const poolProducts = [
     {
         name: 'EVA WATER',
         image: 'assets/images/grillkitchen/Icon.jpg',
-        price: '200'
+        price: '300'
     },
     {
         name: 'AQUAFINA WATER',
         image: 'assets/images/lounge/Aquafina 2.jpg',
-        price: '200'
+        price: '300'
     },
     {
         name: 'SHABRAM TABLE WATER',
@@ -177,7 +177,7 @@ const poolProducts = [
     {
         name: 'PET SPRITE',
         image: 'assets/images/lounge/sprite.jpg',
-        price: '200'
+        price: '400'
     },
    /* {
         name: 'VIJU BAKED YOGHURT',
@@ -188,12 +188,12 @@ const poolProducts = [
     {
         name: 'HOLLANDIA YOGHURT',
         image: 'assets/images/lounge/Hollandia-Yogurt.jpg',
-        price: '1500'
+        price: '2000'
     },
     {
         name: 'VISMARTIC',
         image: 'assets/images/lounge/vsmartic.png',
-        price: '1200'
+        price: '1500'
     },
     /*{
         name: 'VIJU YOGHURT',
@@ -204,17 +204,17 @@ const poolProducts = [
     {
         name: 'MONSTER ENERGY DRINKS',
         image: 'assets/images/lounge/Monster.jpg',
-        price: '1000'
+        price: '1500'
     },
     {
         name: 'POWER HORSE 50CL',
         image: 'assets/images/lounge/Power-Horse.jpg',
-        price: '1200'
+        price: '1500'
     },
     {
         name: 'AMBER ENERGY DRINK',
         image: 'assets/images/lounge/Amber.jpg',
-        price: '500'
+        price: '600'
     },
     {
         name: 'POWER HORSE 350ML',
