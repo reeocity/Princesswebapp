@@ -11,23 +11,23 @@ const poolProducts = [
     {
         name: 'New CRANBERRY',
         image: 'assets/images/lounge/Cranberry 2.jpg',
-        price: '3,500'
+        price: '4,000'
     },
     {
         name: 'CHI VITA 100 PERCENT',
         image: 'assets/images/lounge/Chivita-100%.jpg',
-        price: '1,500'
+        price: '2,000'
     },
     
     {
         name: 'CHI VITA ACTIVE',
         image: 'assets/images/lounge/Chi-Vita-Active 2.jpg',
-        price: '1,500'
+        price: '2,000'
     },
     {
         name: 'CHI EXOTIC',
         image: 'assets/images/lounge/chi-exotic 2.jpg',
-        price: '1,500'
+        price: '2,000'
     },
     {
         name: 'CHI EXOTIC 500ML',
@@ -115,7 +115,7 @@ const poolProducts = [
     {
         name: 'PET MIRINDA',
         image: 'assets/images/lounge/Mirinda-Plastic.jpg',
-        price: '300'
+        price: '400'
     },
     {
         name: 'PET PEPSI',
@@ -188,6 +188,11 @@ const poolProducts = [
     {
         name: 'HOLLANDIA YOGHURT',
         image: 'assets/images/lounge/Hollandia-Yogurt.jpg',
+        price: '2,000'
+    },
+    {
+        name: 'PEAK YOUGHURT',
+        image: 'assets/images/lounge/peak.png',
         price: '2,000'
     },
     {
