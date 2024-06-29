@@ -144,7 +144,7 @@ const poolProducts = [
     }, */
     {
         name: 'SHABRAM TABLE WATER',
-        image: 'assets/images/grillkitchen/Icon.jpg',
+        image: 'assets/images/grillkitchen/sh.png',
         price: '500'
     },
    /* {
@@ -191,7 +191,7 @@ const poolProducts = [
     }, */
     {
         name: 'PEAK YOUGHURT',
-        image: 'assets/images/lounge/peak.png',
+        image: 'assets/images/lounge/Peak.jpg',
         price: '2,500'
     },
     {
